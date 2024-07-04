@@ -1,0 +1,50 @@
+#programa de almacenaminto de datos 
+nif = "numero de idebtificacion"
+name = "nombre"
+edad = "edad"
+   
+# gestion de datos 
+nif("la esctructura es de 8digitos,gion y 3 caracteres")
+name("el nombre debe tenr al menos 8 caracteres")  
+edad("sea mallor o igual a 0")
+     
+#menu principal
+while True:
+    print("\nSistema gestion de identificacion de union europea'")
+    print("1.- nif")
+    print("2.- nombre")
+    print("3.- Salir")
+    option = input("registro de datos: ")
+
+
+while True:
+    print(nif ="la esctructura es de 8digitos + gion + 3 caracteres")
+    print(name="el nombre debe tenr al menos 8 caracteres")  
+    print(edad ="sea mallor o igual a 0")
+
+
+if option == "1":
+    #datos deusuario0
+    while True:
+      nif_bif = input("la esctructura es de 8digitos + gion + 3 caracteres")
+      if "" in nif_nif and (nif_nif.endswith("8digitos") or nif_nif.endswith("-") or nif_nif.endswith("3 caracteres")):
+             ("de los cualea los ultimos dos son sp")    
+             break 
+      else:
+          print:("edintificacion de lapersona en la union europea")
+         
+    while True:
+      name_nombre= input("nombre de  almenos 8 caracyeres: ")
+      if name_nombre: 
+          break
+      else:
+          print("nombre de la persona")
+      
+      while True:
+        edad_edad= imput("mayor o igual a 0")  
+        if edad_edad:
+            break
+        else:
+            print("edad de la persona")
+        
+        
